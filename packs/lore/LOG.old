@@ -1,0 +1,7 @@
+2025/02/15-11:20:43.491 4ea0 Recovering log #4
+2025/02/15-11:20:43.496 4ea0 Delete type=0 #4
+2025/02/15-11:20:43.496 4ea0 Delete type=3 #2
+2025/02/15-11:24:30.554 4944 Level-0 table #9: started
+2025/02/15-11:24:30.557 4944 Level-0 table #9: 29464 bytes OK
+2025/02/15-11:24:30.559 4944 Delete type=0 #7
+2025/02/15-11:24:30.567 4944 Manual compaction at level-0 from '!adventures!JHryFBvvFyC15MuG' @ 72057594037927935 : 1 .. '!adventures!JHryFBvvFyC15MuG' @ 0 : 0; will stop at (end)

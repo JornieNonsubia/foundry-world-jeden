@@ -1,0 +1,39 @@
+{
+  "id": "svit-yeden",
+  "title": "Світ Єден",
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "description": "Лоровий набір для світу Єден.",
+  "authors": [
+    {
+      "name": "Jornie",
+      "discord": "jornie_nonsubia",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "lore",
+      "label": "Lore",
+      "path": "packs/lore",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "recommends": [
+      {
+        "id": "simple-quest",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "https://github.com/JornieNonsubia/foundry-world-jeden"
+}
