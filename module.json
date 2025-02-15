@@ -2,6 +2,8 @@
   "id": "svit-yeden",
   "title": "Світ Єден",
   "version": "0.1",
+  "manifest": "https://raw.githubusercontent.com/JornieNonsubia/foundry-world-jeden/refs/heads/master/module.json",
+  "download": "https://github.com/JornieNonsubia/foundry-world-jeden/archive/refs/tags/0.0.1.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "12.331"
