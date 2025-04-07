@@ -1,12 +1,12 @@
 {
   "id": "svit-yeden",
   "title": "Світ Єден",
+  "description": "Лоровий набір для світу Єден.",
   "version": "08.04.25",
   "compatibility": {
     "minimum": "12",
     "verified": "12.331"
   },
-  "description": "Лоровий набір для світу Єден.",
   "authors": [
     {
       "name": "Jornie",
@@ -35,5 +35,7 @@
       }
     ]
   },
+  "manifest": "https://raw.githubusercontent.com/JornieNonsubia/foundry-world-jeden/master/module.json",
+  "download": "https://github.com/JornieNonsubia/foundry-world-jeden/releases/download/08.04.25/module.zip",
   "url": "https://github.com/JornieNonsubia/foundry-world-jeden"
 }
